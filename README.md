@@ -1,0 +1,1 @@
+# azurerm-module-storageaccount
